@@ -42,16 +42,6 @@ and run
 
 The server will start on http://localhost:8000
 
-### API app
-
-An "api" Django app has already been created with the command
-
-```console
-$ python manage.py startapp api
-```
-
-and can be tested by visiting http://localhost:8000/api/test.json
-
 ## Vue frontend
 
 The `frontend` folder contains a [Vue/Vite project](https://vitejs.dev/guide/) and was created with:
